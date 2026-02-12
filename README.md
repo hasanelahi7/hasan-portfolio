@@ -2,6 +2,8 @@
 
 Personal portfolio showcasing my work as a Software Engineer specializing in full-stack development, UI/UX design, and machine learning.
 
+**Live Site:** [https://hasan-elahi.vercel.app/](https://hasan-elahi.vercel.app/)
+
 ## About
 
 I'm Hasan Elahi (Sheikh Hasan Elahi), a Software Engineer based in Oslo, Norway. Currently pursuing a Master's in Data Science at Norges Miljø- og Biovitenskapelige Universitet (NMBU) while working as a Teaching Assistant and freelancing on Upwork.
@@ -36,6 +38,7 @@ npm run build
 - Interactive journey timeline
 - Contact form integration
 - Fully responsive design
+- **Internationalization (i18n)** - Multi-language support with English and Norwegian (Norsk)
 
 ## Contact
 
