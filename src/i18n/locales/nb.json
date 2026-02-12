@@ -1,0 +1,145 @@
+{
+  "nav": {
+    "home": "Hjem",
+    "journey": "Min vei",
+    "projects": "Prosjekter",
+    "skills": "Ferdigheter",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "greeting": "Hei, jeg er",
+    "name": "Hasan Elahi",
+    "role_prefix": "Jeg er en",
+    "roles": {
+      "software_engineer": "Programvareingeniør",
+      "fullstack_developer": "Full-Stack Utvikler",
+      "uiux_designer": "UI/UX Designer",
+      "ml_engineer": "ML Ingeniør",
+      "data_scientist": "Dataforsker",
+      "react_developer": "React Utvikler"
+    },
+    "description": "Full-stack utvikler med ekspertise innen UI/UX design og maskinlæring. For tiden assisterer jeg i avanserte ML-kurs ved NMBU mens jeg tar en mastergrad i Data Science. Jeg spesialiserer meg på å bygge moderne applikasjoner og utvikle intelligente løsninger.",
+    "view_projects": "Se Prosjekter",
+    "get_in_touch": "Ta Kontakt",
+    "download_cv": "Last ned CV"
+  },
+  "journey": {
+    "title": "Min",
+    "title_highlight": "Vei",
+    "work": "Arbeid",
+    "education": "Utdanning",
+    "timeline": {
+      "ta_nmbu": {
+        "title": "Studentassistent",
+        "organization": "Norges miljø- og biovitenskapelige universitet (NMBU)",
+        "location": "Ås, Norge",
+        "period": "August 2025 – Nåværende",
+        "description": "Underviser i DAT200 (Avansert maskinlæring) og INF230 (Datahåndtering og analyse). Assisterer studenter med Python, ML-rammeverk og MySQL."
+      },
+      "intern_kartverket": {
+        "title": "Praktikant - Programvareingeniør",
+        "organization": "Kartverket",
+        "location": "Skøyen, Norge",
+        "period": "September 2025 – Desember 2025",
+        "description": "Gjennomførte intervjuer med interessenter, designet UI/UX i Figma, og moderniserte Norgeskart-nettstedet ved hjelp av React og Tailwind CSS. Bygde gjenbrukbart komponentbibliotek med Storybook."
+      },
+      "upwork": {
+        "title": "Full-Stack Utvikler & ML Ingeniør",
+        "organization": "Upwork",
+        "location": "Eksternt",
+        "period": "Mai 2023 – Nåværende",
+        "description": "Tilbyr full-stack utvikling og UI/UX-tjenester. Trener ML-algoritmer og utvikler API-er for backend-tjenester."
+      },
+      "tarabut": {
+        "title": "Associate ML Ingeniør",
+        "organization": "Tarabut Gateway",
+        "location": "Eksternt",
+        "period": "Desember 2023 – Juli 2024",
+        "description": "Administrerte annotering av tekstuelle og billedatasett for maskinlæring. Samarbeidet om forbedringer av datamerkingsprosess."
+      },
+      "patent": {
+        "title": "Patentingeniør",
+        "organization": "Boehmert & Boehmert",
+        "location": "Eksternt",
+        "period": "Juli 2023 – Desember 2023",
+        "description": "Bidro til patentsøknader for Microsoft og Huawei. Analyserte tekniske dokumenter relatert til AI."
+      },
+      "masters": {
+        "title": "Mastergrad i Data Science",
+        "organization": "Norges miljø- og biovitenskapelige universitet (NMBU)",
+        "location": "Ås, Norge",
+        "period": "August 2024 – Mai 2026",
+        "description": "Tar en mastergrad i datavitenskap og maskinlæring."
+      },
+      "bachelors": {
+        "title": "Bachelor i Datavitenskap",
+        "organization": "Bahria University",
+        "location": "Pakistan",
+        "period": "2019 – 2023",
+        "description": "CGPA: 3,59/4,0. Avhandling: Klassifisering av hjernesvulst ved bruk av dyp læring."
+      }
+    }
+  },
+  "projects": {
+    "title": "Utvalgte",
+    "title_highlight": "Prosjekter",
+    "tech_used": "Teknologier brukt:",
+    "github": "GitHub",
+    "live_demo": "Live Demo",
+    "more_projects": "Flere prosjekter tilgjengelig på",
+    "items": {
+      "kartverket": {
+        "title": "Kartverket UI-bibliotek",
+        "description": "Moderniserte Norges nasjonale kartverks nettsted ved å gjennomføre intervjuer med interessenter, designe i Figma og bygge et gjenbrukbart React-komponentbibliotek med Storybook-dokumentasjon. Implementerte responsivt design med Tailwind CSS."
+      },
+      "brain_tumour": {
+        "title": "Klassifisering av hjernesvulst",
+        "description": "Utviklet en dyp læringsmodell for klassifisering av hjernesvulster ved hjelp av medisinske bildedata. Implementert med PyTorch og oppnådde høy nøyaktighet i tumordeteksjon og klassifisering."
+      },
+      "annotation": {
+        "title": "ML-dataannoteringsplattform",
+        "description": "Bygde og administrerte en dataannoteringsplattform for maskinlæringsdatasett. Forbedret merkingseffektivitet og datakvalitet gjennom samarbeidende arbeidsflyter og automatisert validering."
+      },
+      "fullstack_client": {
+        "title": "Full-Stack Klientprosjekter",
+        "description": "Leverte flere full-stack webapplikasjoner for klienter gjennom Upwork. Integrerte API-er, bygde responsive brukergrensesnitt og implementerte maskinlæringsfunksjoner for ulike forretningsbehov."
+      }
+    }
+  },
+  "skills": {
+    "title": "Ferdigheter",
+    "title_highlight": "Verktøy",
+    "categories": {
+      "frontend": "Frontend & UI/UX",
+      "backend": "Backend",
+      "databases": "Databaser",
+      "ml": "Maskinlæring & AI",
+      "tools": "Verktøy & Plattformer"
+    }
+  },
+  "contact": {
+    "title": "Kom i",
+    "title_highlight": "Kontakt",
+    "lets_connect": "La oss ta kontakt",
+    "intro": "Jeg er for øyeblikket åpen for nye muligheter og samarbeid. Ta gjerne kontakt!",
+    "email": "E-post",
+    "phone": "Telefon",
+    "location": "Sted",
+    "location_value": "Oslo, Norge",
+    "form": {
+      "name": "Navn",
+      "name_placeholder": "Ditt navn",
+      "email": "E-post",
+      "email_placeholder": "din.epost@eksempel.no",
+      "message": "Melding",
+      "message_placeholder": "Din melding...",
+      "submit": "Send Melding",
+      "sending": "Sender...",
+      "success": "Melding sendt! Jeg kommer tilbake til deg snart.",
+      "error": "Noe gikk galt. Vennligst prøv igjen eller send meg en e-post direkte."
+    }
+  },
+  "footer": {
+    "copyright": "© 2026 Hasan Elahi. Alle rettigheter forbeholdt."
+  }
+}

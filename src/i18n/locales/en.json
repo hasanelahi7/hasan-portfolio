@@ -1,0 +1,145 @@
+{
+  "nav": {
+    "home": "Home",
+    "journey": "Journey",
+    "projects": "Projects",
+    "skills": "Skills",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Hasan Elahi",
+    "role_prefix": "I'm a",
+    "roles": {
+      "software_engineer": "Software Engineer",
+      "fullstack_developer": "Full-Stack Developer",
+      "uiux_designer": "UI/UX Designer",
+      "ml_engineer": "ML Engineer",
+      "data_scientist": "Data Scientist",
+      "react_developer": "React Developer"
+    },
+    "description": "Full-stack developer with expertise in UI/UX design and machine learning. Currently assisting in Advanced ML courses at NMBU while pursuing a Master's in Data Science. I specialize in building modern applications and developing intelligent solutions.",
+    "view_projects": "View Projects",
+    "get_in_touch": "Get in Touch",
+    "download_cv": "Download CV"
+  },
+  "journey": {
+    "title": "My",
+    "title_highlight": "Journey",
+    "work": "Work",
+    "education": "Education",
+    "timeline": {
+      "ta_nmbu": {
+        "title": "Teaching Assistant",
+        "organization": "Norwegian University of Life Sciences (NMBU)",
+        "location": "Ås, Norway",
+        "period": "August 2025 – Present",
+        "description": "Teaching DAT200 (Advanced Machine Learning) and INF230 (Data Handling and Analysis). Assisting students with Python, ML frameworks, and MySQL."
+      },
+      "intern_kartverket": {
+        "title": "Software Engineer Internship",
+        "organization": "Kartverket",
+        "location": "Skøyen, Norway",
+        "period": "September 2025 – December 2025",
+        "description": "Conducted stakeholder interviews, designed UI/UX in Figma, and modernized Norgeskart website using React and Tailwind CSS. Built reusable component library with Storybook."
+      },
+      "upwork": {
+        "title": "Full-Stack Developer & ML Engineer",
+        "organization": "Upwork",
+        "location": "Remote",
+        "period": "May 2023 – Present",
+        "description": "Providing full-stack development and UI/UX services. Training ML algorithms and developing APIs for backend services."
+      },
+      "tarabut": {
+        "title": "Associate ML Engineer",
+        "organization": "Tarabut Gateway",
+        "location": "Remote",
+        "period": "December 2023 – July 2024",
+        "description": "Managed annotation of textual and image datasets for machine learning. Collaborated on data labeling process improvements."
+      },
+      "patent": {
+        "title": "Patent Engineer",
+        "organization": "Boehmert & Boehmert",
+        "location": "Remote",
+        "period": "July 2023 – December 2023",
+        "description": "Contributed to patent filings for Microsoft and Huawei. Analyzed technical documents related to AI."
+      },
+      "masters": {
+        "title": "Master's Degree in Data Science",
+        "organization": "Norwegian University of Life Sciences (NMBU)",
+        "location": "Ås, Norway",
+        "period": "August 2024 – May 2026",
+        "description": "Currently pursuing advanced studies in data science and machine learning."
+      },
+      "bachelors": {
+        "title": "Bachelor's in Computer Science",
+        "organization": "Bahria University",
+        "location": "Pakistan",
+        "period": "2019 – 2023",
+        "description": "CGPA: 3.59/4.0. Thesis: Classification of Brain Tumour Using Deep Learning."
+      }
+    }
+  },
+  "projects": {
+    "title": "Featured",
+    "title_highlight": "Projects",
+    "tech_used": "Technologies Used:",
+    "github": "GitHub",
+    "live_demo": "Live Demo",
+    "more_projects": "More projects available on",
+    "items": {
+      "kartverket": {
+        "title": "Kartverket UI Library",
+        "description": "Modernized Norway's national mapping agency website by conducting stakeholder interviews, designing in Figma, and building a reusable React component library with Storybook documentation. Implemented responsive design with Tailwind CSS."
+      },
+      "brain_tumour": {
+        "title": "Brain Tumour Classification",
+        "description": "Developed a deep learning model for classifying brain tumours using medical imaging data. Implemented using PyTorch and achieved high accuracy in tumor detection and classification."
+      },
+      "annotation": {
+        "title": "ML Data Annotation Platform",
+        "description": "Built and managed a data annotation platform for machine learning datasets. Improved labeling efficiency and data quality through collaborative workflows and automated validation."
+      },
+      "fullstack_client": {
+        "title": "Full-Stack Client Projects",
+        "description": "Delivered multiple full-stack web applications for clients through Upwork. Integrated APIs, built responsive UIs, and implemented machine learning features for various business needs."
+      }
+    }
+  },
+  "skills": {
+    "title": "Skills",
+    "title_highlight": "Toolkit",
+    "categories": {
+      "frontend": "Frontend & UI/UX",
+      "backend": "Backend",
+      "databases": "Databases",
+      "ml": "Machine Learning & AI",
+      "tools": "Tools & Platforms"
+    }
+  },
+  "contact": {
+    "title": "Get In",
+    "title_highlight": "Touch",
+    "lets_connect": "Let's Connect",
+    "intro": "I'm currently open to new opportunities and collaborations. Feel free to reach out!",
+    "email": "Email",
+    "phone": "Phone",
+    "location": "Location",
+    "location_value": "Oslo, Norway",
+    "form": {
+      "name": "Name",
+      "name_placeholder": "Your name",
+      "email": "Email",
+      "email_placeholder": "your.email@example.com",
+      "message": "Message",
+      "message_placeholder": "Your message...",
+      "submit": "Send Message",
+      "sending": "Sending...",
+      "success": "Message sent successfully! I'll get back to you soon.",
+      "error": "Something went wrong. Please try again or email me directly."
+    }
+  },
+  "footer": {
+    "copyright": "© 2026 Hasan Elahi. All rights reserved."
+  }
+}

@@ -1,97 +1,45 @@
 # Hasan Elahi - Portfolio
 
-A modern, responsive portfolio website built with React, TypeScript, and Tailwind CSS.
+Personal portfolio showcasing my work as a Software Engineer specializing in full-stack development, UI/UX design, and machine learning.
 
-## Features
+## About
 
-- **Modern Design**: Clean and professional interface inspired by contemporary portfolio designs
-- **Dark/Light Mode**: Toggle between dark and light themes with persistent preference
-- **Responsive**: Fully responsive design that works on all devices
-- **Smooth Scrolling**: Seamless navigation between sections
-- **Interactive Sections**:
-  - Hero section with profile image
-  - Skills showcase with categorized tech stack
-  - Journey timeline with work experience and education
-  - Projects showcase with tabbed interface
-  - Contact form with social links
+I'm Hasan Elahi (Sheikh Hasan Elahi), a Software Engineer based in Oslo, Norway. Currently pursuing a Master's in Data Science at Norges Miljø- og Biovitenskapelige Universitet (NMBU) while working as a Teaching Assistant and freelancing on Upwork.
+
+### Experience
+- Teaching Assistant at NMBU
+- Software Engineer Intern at Kartverket
+- Full-Stack Developer & ML Engineer (Upwork)
+- Associate ML Engineer at Tarabut Gateway
+- Patent Engineer at Boehmert & Boehmert
 
 ## Tech Stack
 
-- **React 18** - UI library
-- **TypeScript** - Type safety
-- **Vite** - Build tool and dev server
-- **Tailwind CSS** - Utility-first CSS framework
+React • TypeScript • Vite • Tailwind CSS • Formspree
 
-## Getting Started
-
-### Prerequisites
-
-- Node.js 18+ and npm
-
-### Installation
+## Quick Start
 
 ```bash
-# Install dependencies
 npm install
-
-# Start development server
 npm run dev
+```
 
-# Build for production
+Build for production:
+```bash
 npm run build
-
-# Preview production build
-npm run preview
 ```
 
-## Development
+## Features
 
-The project is organized with the following structure:
-
-```
-src/
-├── components/     # React components
-│   ├── Navigation.tsx
-│   ├── Hero.tsx
-│   ├── Skills.tsx
-│   ├── Journey.tsx
-│   ├── Projects.tsx
-│   └── Contact.tsx
-├── App.tsx        # Main app component
-├── main.tsx       # Entry point
-└── index.css      # Global styles
-```
-
-## Customization
-
-### Update Personal Information
-
-Edit the following files to customize with your information:
-
-- **Hero Section**: [src/components/Hero.tsx](src/components/Hero.tsx)
-- **Skills**: [src/components/Skills.tsx](src/components/Skills.tsx)
-- **Journey**: [src/components/Journey.tsx](src/components/Journey.tsx)
-- **Projects**: [src/components/Projects.tsx](src/components/Projects.tsx)
-- **Contact**: [src/components/Contact.tsx](src/components/Contact.tsx)
-
-### Profile Image
-
-Replace [public/me.png](public/me.png) with your own profile picture.
-
-## Deployment
-
-This project can be easily deployed to platforms like:
-
-- **Vercel**: Connect your GitHub repo and deploy automatically
-- **Netlify**: Drop the `dist` folder or connect your repo
-- **GitHub Pages**: Use the `gh-pages` package
-
-## License
-
-MIT License - feel free to use this template for your own portfolio!
+- Typewriter effect hero section
+- Animated dark/light mode toggle
+- Interactive journey timeline
+- Contact form integration
+- Fully responsive design
 
 ## Contact
 
-- Email: sheikh.hasan7@gmail.com
-- LinkedIn: [linkedin.com/in/hasan-elahi](https://linkedin.com/in/hasan-elahi)
-- GitHub: [github.com/hasanelahi](https://github.com/hasanelahi)
+**Email:** sheikh.hasan7@gmail.com
+**LinkedIn:** [Sheikh Hasan Elahi](https://www.linkedin.com/in/sheikh-hasan-elahi-4b3180a3)
+**GitHub:** [hasanelahi7](https://github.com/hasanelahi7)
+**Location:** Oslo, Norway
