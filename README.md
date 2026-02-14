@@ -1,8 +1,11 @@
-# Hasan Elahi - Portfolio
+# Hasan Elahi Portfolio | Software Engineer NMBU Norway
 
-Personal portfolio showcasing my work as a Software Engineer specializing in full-stack development, UI/UX design, and machine learning.
+Portfolio website of **Hasan Elahi** - Software Engineer and Teaching Assistant at NMBU (Norwegian University of Life Sciences) in Norway. Specializing in full-stack development, UI/UX design, and machine learning.
 
 **Live Site:** [https://hasan-elahi.vercel.app/](https://hasan-elahi.vercel.app/)
+
+## Keywords
+Hasan Elahi, Hasan Elahi Portfolio, Hasan Elahi NMBU, Hasan Elahi Norway, Hasan NMBU, Hasan Norway, Software Engineer Norway, Full-Stack Developer Oslo, NMBU Teaching Assistant, React Developer, Machine Learning Engineer Norway
 
 ## About
 

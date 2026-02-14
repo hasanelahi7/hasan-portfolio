@@ -86,8 +86,17 @@
     "tech_used": "Teknologier brukt:",
     "github": "GitHub",
     "live_demo": "Live Demo",
+    "npm": "NPM Pakke",
     "more_projects": "Flere prosjekter tilgjengelig på",
     "items": {
+      "elahi_ui": {
+        "title": "Elahi UI - React Komponentbibliotek",
+        "description": "Publisert et produksjonsklart React-komponentbibliotek med 15+ tilgjengelige komponenter. Inneholder full TypeScript-støtte, mørk/lys modus temaing, omfattende Storybook-dokumentasjon og WCAG tilgjengelighetssamsvar. Tilgjengelig på NPM med tree-shakeable arkitektur for optimal pakkestørrelse."
+      },
+      "portfolio": {
+        "title": "Personlig Porteføljenettsted",
+        "description": "Bygde et moderne, responsivt porteføljenettsted ved hjelp av React og TypeScript. Inneholder internasjonalisering (i18n) med norsk og engelsk språkstøtte, mørk/lys tema bytte, jevne animasjoner og fullt responsiv design. Viser frem prosjekter, ferdigheter og profesjonell reise med et intuitivt brukergrensesnitt."
+      },
       "kartverket": {
         "title": "Kartverket UI-bibliotek",
         "description": "Moderniserte Norges nasjonale kartverks nettsted ved å gjennomføre intervjuer med interessenter, designe i Figma og bygge et gjenbrukbart React-komponentbibliotek med Storybook-dokumentasjon. Implementerte responsivt design med Tailwind CSS."

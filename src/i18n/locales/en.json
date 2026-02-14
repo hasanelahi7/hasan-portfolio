@@ -86,8 +86,17 @@
     "tech_used": "Technologies Used:",
     "github": "GitHub",
     "live_demo": "Live Demo",
+    "npm": "NPM Package",
     "more_projects": "More projects available on",
     "items": {
+      "elahi_ui": {
+        "title": "Elahi UI - React Component Library",
+        "description": "Published a production-ready React component library with 15+ accessible components. Features full TypeScript support, dark/light mode theming, comprehensive Storybook documentation, and WCAG accessibility compliance. Available on NPM with tree-shakeable architecture for optimal bundle size."
+      },
+      "portfolio": {
+        "title": "Personal Portfolio Website",
+        "description": "Built a modern, responsive portfolio website using React and TypeScript. Features internationalization (i18n) with English and Norwegian language support, dark/light theme switching, smooth animations, and fully responsive design. Showcases projects, skills, and professional journey with an intuitive user interface."
+      },
       "kartverket": {
         "title": "Kartverket UI Library",
         "description": "Modernized Norway's national mapping agency website by conducting stakeholder interviews, designing in Figma, and building a reusable React component library with Storybook documentation. Implemented responsive design with Tailwind CSS."

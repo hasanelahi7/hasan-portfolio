@@ -44,7 +44,7 @@ function App() {
         <Projects />
         <Contact />
       </main>
-      <footer className="bg-gray-50 dark:bg-gray-800 py-8 text-center text-gray-600 dark:text-gray-400">
+      <footer className="py-8 text-center text-gray-600 bg-gray-50 dark:bg-gray-800 dark:text-gray-400">
         <p>{t('footer.copyright')}</p>
       </footer>
     </div>
